@@ -69,3 +69,65 @@ Instalación rápida:
 
 ```bash
 pip install pillow piexif
+```
+---
+
+## ▶️ Uso
+Coloca el script en la carpeta que contiene las imágenes.
+
+Ejecuta:
+
+```bash
+python main.py
+```
+
+El script procesará automáticamente todas las imágenes compatibles.
+
+---
+
+## ⚙️ Configuración rápida
+Puedes modificar fácilmente:
+
+```python
+COLOR_TEXTO = "white"
+BORDE_TEXTO = "black"
+TAMANO_FUENTE = 22
+```
+Y el bloque de texto estampado:
+
+```python
+texto = (
+    "Obras de Paso - Campaña 2021\n"
+    "Rubén J. Barrionuevo Jiménez\n"
+    f"Día: {dia}\n"
+    f"Hora: {hora}"
+)
+```
+
+---
+
+## 🧩 Casos de uso ideales
+
+Documentación fotográfica de obras
+Inspecciones técnicas y peritajes
+Seguimiento temporal de proyectos
+Archivos históricos con trazabilidad visual
+Automatización de flujos fotográficos profesionales
+
+---
+
+## 📄 Licencia
+Este proyecto se distribuye bajo licencia MIT.
+Puedes usarlo, modificarlo y adaptarlo libremente.
+
+---
+
+## ✍️ Autor
+Desarrollado por Rubén J. Barrionuevo Jiménez
+
+
+
+
+
+
+
