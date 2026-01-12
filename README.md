@@ -97,8 +97,8 @@ Y el bloque de texto estampado:
 
 ```python
 texto = (
-    "Obras de Paso - Campaña 2021\n"
-    "Rubén J. Barrionuevo Jiménez\n"
+    "Titulo\n"
+    "Subtitulo\n"
     f"Día: {dia}\n"
     f"Hora: {hora}"
 )
@@ -108,11 +108,11 @@ texto = (
 
 ## 🧩 Casos de uso ideales
 
-Documentación fotográfica de obras
-Inspecciones técnicas y peritajes
-Seguimiento temporal de proyectos
-Archivos históricos con trazabilidad visual
-Automatización de flujos fotográficos profesionales
+- Documentación fotográfica de obras
+- Inspecciones técnicas y peritajes
+- Seguimiento temporal de proyectos
+- Archivos históricos con trazabilidad visual
+- Automatización de flujos fotográficos profesionales
 
 ---
 
