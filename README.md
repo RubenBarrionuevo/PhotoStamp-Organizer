@@ -41,12 +41,19 @@ Es especialmente útil para **documentación de obras**, **inspecciones técnica
 ## 📂 Ejemplo de estructura generada
 
 /proyecto
+
 │
+
 ├── AB-2021-0045+003/
+
 │ ├── AB-2021-0045+003_foto1_barrionuevo.jpg
+
 │ └── AB-2021-0045+003_foto2_barrionuevo.jpg
+
 │
+
 ├── CD-2021-0099+012/
+
 │ └── CD-2021-0099+012_foto1_barrionuevo.jpg
 
 ---
